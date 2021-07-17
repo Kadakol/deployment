@@ -1,0 +1,7 @@
+fastapi
+jinja2
+python-multipart
+pydantic
+uvicorn
+opencv-python
+tensorflow
